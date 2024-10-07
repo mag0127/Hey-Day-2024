@@ -7,11 +7,13 @@
 ## Example Script
 ### 
 ``` bash
-{ echo "Hi, what's you're name?"
+echo "Hi, what's you're name?"
 read name
-echo "Hello $name, it's nice to meet you!" }
+echo "Hello $name, it's nice to meet you!"
 ```
 ## Sample Output
-### Hi, what's you're name?
+Hi, what's you're name?
+
 Madeline
+
 Hello Madeline, it's nice to meet you!
